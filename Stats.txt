@@ -1,0 +1,9 @@
+Entropy Calculation Average score
+Score: 4.03681
+Anomalies: aging, badge, baggy, baker, banal, batch, batty, belly, bench, berry, bevel, binge, bitty, bobby, botch, bound, boxer, brace, brake, breed, broke, brood, budge, buggy, bunch, bunny, bushy, butch, candy, caper, carry, catch, cater, chard, coral, cower, crane, crass, crate, creed, cried, crone, daddy, dandy, daunt, ditch, ditty, dried, dusty, eager, eagle, eater, ember, fairy, ferry, ficus, fight, finer, flaky, force, foyer, furry, fussy, gaunt, giver, grate, grove, gumbo, hardy, honey, hover, joker, jolly, layer, leafy, lobby, lover, macaw, mangy, nanny, nicer, night, puppy, roger, safer, scare, score, scout, sheer, slice, snake, stage, steed, tabby, taffy, taker, toddy, trawl, tribe, trice, unfed, wafer, water, wight
+
+New Method
+Entropy Calculation Average score
+
+Score: 3.81464
+Anomalies: batch, boxer, bulky, cower, cramp, daunt, dilly, ditch, ditty, foyer, gawky, gayly, golly, goner, greed, gummy, gusty, hatch, hater, hover, merry, miner, nicer, ninny, paler, rower, saner, sappy, saucy, scald, shave, sower, stash, stung, surer, taffy, tatty, tripe, unwed, vaunt, waver, wight
