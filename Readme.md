@@ -4,6 +4,7 @@
 
 The wordle bot is inspired by 3Blue1Browns video.
 Built in C++ it uses entropy calculation along with relative frequency ranking of words in english language to get the best guess. The gui was built using raylib for windows.
+Has a succes rate of 98.18% with an average score of 3.81
 
 ![Wordle Bot Screenshot](wordlebot.png)
 

@@ -7,3 +7,4 @@ Entropy Calculation Average score
 
 Score: 3.81464
 Anomalies: batch, boxer, bulky, cower, cramp, daunt, dilly, ditch, ditty, foyer, gawky, gayly, golly, goner, greed, gummy, gusty, hatch, hater, hover, merry, miner, nicer, ninny, paler, rower, saner, sappy, saucy, scald, shave, sower, stash, stung, surer, taffy, tatty, tripe, unwed, vaunt, waver, wight
+
