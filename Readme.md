@@ -11,6 +11,11 @@ Has a succes rate of 98.18% with an average score of 3.81
 ## Usage
 
 Keep the wordle bot open along with your wordle game. Enter the top guess it provides into wordle and enter it into the grid and for each letter use the spacebar to cycle through the colors and click enter to get the next best guess.(Might take a second or two)
+To run the Wordle bot without wanting to deal with all the code then 
+1. Download the code repository
+2. Extract the folder
+3. Run the WordleBot.exe file that is present in the folder
+4. Use the wordle bot to beat any wordle game
 
 ## Requirements
 
@@ -19,6 +24,8 @@ Keep the wordle bot open along with your wordle game. Enter the top guess it pro
 - Raylib Library
 
 ## Installation
+
+If you want to make tweak the code follow the procedure else go to Usage for how to run the code without any installations
 
 1. Clone the repository:
 
